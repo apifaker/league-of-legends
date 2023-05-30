@@ -1,0 +1,21 @@
+header {
+    height: 90px;
+    background-color: rgb(61, 60, 60);
+    width: 100%;
+}
+
+header nav {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    gap: 1rem;
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 1.2rem 2rem;
+}
+
+header nav a {
+    font-size: 1.3rem;
+    color: whitesmoke;
+    text-decoration: none;
+}
